@@ -1,5 +1,9 @@
 import java.util.Stack;
 
+/**
+ * 짝지어 삭제하기 - Level 2
+ * https://programmers.co.kr/learn/courses/30/lessons/12973
+ */
 public class RemoveInPairs {
     public int solution(String s) {
         int answer = -1;
