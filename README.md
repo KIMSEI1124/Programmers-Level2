@@ -7,3 +7,4 @@
 5. [가장 큰수(진행중) - MaxNum]()
 6. [순위 검색(진행중) - RankFinder]()
 7. [예상 대진표 - ExpectedSchedule](https://cdn.discordapp.com/attachments/872666171822968912/874850362861957160/c6064e2db0fe74e2.PNG)
+8. [전화번호 목록 - TelephoneDir](https://cdn.discordapp.com/attachments/872666171822968912/877723005046902794/86c8a338145a933d.PNG)
